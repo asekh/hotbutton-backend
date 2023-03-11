@@ -1,1 +1,5 @@
-text
+To run this program, install the libraries by using this command:
+
+pip install altgraph certifi charset-normalizer click contourpy cycler Flask fonttools future idna importlib-metadata importlib-resources itsdangerous Jinja2 joblib kiwisolver macholib MarkupSafe matplotlib nltk numpy oauthlib packaging pandas Pillow pyparsing python-dateutil pytz regex requests requests-oauthlib six textblob tqdm tweepy urllib3 vaderSentiment Werkzeug wordcloud zipp
+
+and then, run the program using python app.py 
